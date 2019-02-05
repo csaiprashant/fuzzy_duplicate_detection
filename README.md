@@ -2,7 +2,7 @@
 
 ## Introduction
 The objective of this project is to come up with a mechanism to detect duplicate objects, where the term ‘duplicate’ means same or mostly similar representations of the same object in a document collection. The project is divided into four parts:
-1. Generate a vocabulary of the 1,000 most popular words in the document collection. Proper pre-processing steps like stopword removal were performed.
+1. Generate a vocabulary of the 1,000 most popular words in the document collection. Proper pre-processing steps like stopword removal and stemming were performed.
 2. Generate an inverted index for the 1,000-word vocabulary.
 3. Compute the similarity matrix for the inverted index generated in part 2.
 4. Provide a list of 10 most identical documents in the document collection.
