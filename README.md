@@ -12,7 +12,7 @@ We also compare different file formats which can be used to store data in Big Da
 The document collection used for this homework is the ‘Gutenberg Dataset’, which is a collection of 3,036 English books written by 142 authors. However, all calculations were performed on the medium subset of the dataset which had 519 books. We used the pyspark framework to implement Spark functionalities in Python 2.7 on the University of Houston’s whale cluster.
 
     The project was done using Python 2.7.13 and Spark 2.3.1
-### For full report, please refer [Project Report](https://github.com/csaiprashant/academic_projects/blob/master/Fuzzy%20Duplicate%20Detection%20in%20a%20Big%20Data%20Text%20Corpus/projectreport.pdf)
+### For full report, please refer [Project Report](https://github.com/csaiprashant/fuzzy_duplicate_detection/blob/master/projectreport.pdf)
 
 ## Files in this Repository
 - README.md
